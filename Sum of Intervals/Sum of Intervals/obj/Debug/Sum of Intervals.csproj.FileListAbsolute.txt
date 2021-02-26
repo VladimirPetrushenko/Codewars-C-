@@ -1,0 +1,7 @@
+D:\C#\codewars\Sum of Intervals\Sum of Intervals\bin\Debug\Sum of Intervals.exe.config
+D:\C#\codewars\Sum of Intervals\Sum of Intervals\bin\Debug\Sum of Intervals.exe
+D:\C#\codewars\Sum of Intervals\Sum of Intervals\bin\Debug\Sum of Intervals.pdb
+D:\C#\codewars\Sum of Intervals\Sum of Intervals\obj\Debug\Sum of Intervals.csprojAssemblyReference.cache
+D:\C#\codewars\Sum of Intervals\Sum of Intervals\obj\Debug\Sum of Intervals.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Sum of Intervals\Sum of Intervals\obj\Debug\Sum of Intervals.exe
+D:\C#\codewars\Sum of Intervals\Sum of Intervals\obj\Debug\Sum of Intervals.pdb

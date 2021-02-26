@@ -1,0 +1,7 @@
+D:\C#\codewars\SpinWords\SpinWords\bin\Debug\SpinWords.exe.config
+D:\C#\codewars\SpinWords\SpinWords\bin\Debug\SpinWords.exe
+D:\C#\codewars\SpinWords\SpinWords\bin\Debug\SpinWords.pdb
+D:\C#\codewars\SpinWords\SpinWords\obj\Debug\SpinWords.csprojAssemblyReference.cache
+D:\C#\codewars\SpinWords\SpinWords\obj\Debug\SpinWords.csproj.CoreCompileInputs.cache
+D:\C#\codewars\SpinWords\SpinWords\obj\Debug\SpinWords.exe
+D:\C#\codewars\SpinWords\SpinWords\obj\Debug\SpinWords.pdb

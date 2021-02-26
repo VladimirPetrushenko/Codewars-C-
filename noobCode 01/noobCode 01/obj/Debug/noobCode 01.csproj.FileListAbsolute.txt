@@ -1,0 +1,7 @@
+D:\C#\codewars\noobCode 01\noobCode 01\bin\Debug\noobCode 01.exe.config
+D:\C#\codewars\noobCode 01\noobCode 01\bin\Debug\noobCode 01.exe
+D:\C#\codewars\noobCode 01\noobCode 01\bin\Debug\noobCode 01.pdb
+D:\C#\codewars\noobCode 01\noobCode 01\obj\Debug\noobCode 01.csprojAssemblyReference.cache
+D:\C#\codewars\noobCode 01\noobCode 01\obj\Debug\noobCode 01.csproj.CoreCompileInputs.cache
+D:\C#\codewars\noobCode 01\noobCode 01\obj\Debug\noobCode 01.exe
+D:\C#\codewars\noobCode 01\noobCode 01\obj\Debug\noobCode 01.pdb

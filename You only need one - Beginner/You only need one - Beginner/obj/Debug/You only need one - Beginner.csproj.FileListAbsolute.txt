@@ -1,0 +1,7 @@
+D:\C#\codewars\You only need one - Beginner\You only need one - Beginner\bin\Debug\You only need one - Beginner.exe.config
+D:\C#\codewars\You only need one - Beginner\You only need one - Beginner\bin\Debug\You only need one - Beginner.exe
+D:\C#\codewars\You only need one - Beginner\You only need one - Beginner\bin\Debug\You only need one - Beginner.pdb
+D:\C#\codewars\You only need one - Beginner\You only need one - Beginner\obj\Debug\You only need one - Beginner.csprojAssemblyReference.cache
+D:\C#\codewars\You only need one - Beginner\You only need one - Beginner\obj\Debug\You only need one - Beginner.csproj.CoreCompileInputs.cache
+D:\C#\codewars\You only need one - Beginner\You only need one - Beginner\obj\Debug\You only need one - Beginner.exe
+D:\C#\codewars\You only need one - Beginner\You only need one - Beginner\obj\Debug\You only need one - Beginner.pdb

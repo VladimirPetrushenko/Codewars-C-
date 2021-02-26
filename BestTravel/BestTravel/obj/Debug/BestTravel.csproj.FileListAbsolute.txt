@@ -1,0 +1,7 @@
+D:\C#\codewars\BestTravel\BestTravel\bin\Debug\BestTravel.exe.config
+D:\C#\codewars\BestTravel\BestTravel\bin\Debug\BestTravel.exe
+D:\C#\codewars\BestTravel\BestTravel\bin\Debug\BestTravel.pdb
+D:\C#\codewars\BestTravel\BestTravel\obj\Debug\BestTravel.csprojAssemblyReference.cache
+D:\C#\codewars\BestTravel\BestTravel\obj\Debug\BestTravel.csproj.CoreCompileInputs.cache
+D:\C#\codewars\BestTravel\BestTravel\obj\Debug\BestTravel.exe
+D:\C#\codewars\BestTravel\BestTravel\obj\Debug\BestTravel.pdb

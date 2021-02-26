@@ -1,0 +1,7 @@
+D:\C#\codewars\5 without numbers\5 without numbers\bin\Debug\5 without numbers.exe.config
+D:\C#\codewars\5 without numbers\5 without numbers\bin\Debug\5 without numbers.exe
+D:\C#\codewars\5 without numbers\5 without numbers\bin\Debug\5 without numbers.pdb
+D:\C#\codewars\5 without numbers\5 without numbers\obj\Debug\5 without numbers.csprojAssemblyReference.cache
+D:\C#\codewars\5 without numbers\5 without numbers\obj\Debug\5 without numbers.csproj.CoreCompileInputs.cache
+D:\C#\codewars\5 without numbers\5 without numbers\obj\Debug\5 without numbers.exe
+D:\C#\codewars\5 without numbers\5 without numbers\obj\Debug\5 without numbers.pdb

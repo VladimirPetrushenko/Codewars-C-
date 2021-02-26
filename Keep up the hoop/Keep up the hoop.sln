@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keep up the hoop", "Keep up the hoop\Keep up the hoop.csproj", "{760B5502-E386-4856-86AB-E3715F7F298B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{760B5502-E386-4856-86AB-E3715F7F298B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760B5502-E386-4856-86AB-E3715F7F298B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760B5502-E386-4856-86AB-E3715F7F298B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760B5502-E386-4856-86AB-E3715F7F298B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43E2B8AC-ED69-422D-922E-C0F86FDDDD83}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\C#\codewars\Alan Partridge 2 - Apple Turnover\Alan Partridge 2 - Apple Turnover\bin\Debug\Alan Partridge 2 - Apple Turnover.exe.config
+D:\C#\codewars\Alan Partridge 2 - Apple Turnover\Alan Partridge 2 - Apple Turnover\bin\Debug\Alan Partridge 2 - Apple Turnover.exe
+D:\C#\codewars\Alan Partridge 2 - Apple Turnover\Alan Partridge 2 - Apple Turnover\bin\Debug\Alan Partridge 2 - Apple Turnover.pdb
+D:\C#\codewars\Alan Partridge 2 - Apple Turnover\Alan Partridge 2 - Apple Turnover\obj\Debug\Alan Partridge 2 - Apple Turnover.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Alan Partridge 2 - Apple Turnover\Alan Partridge 2 - Apple Turnover\obj\Debug\Alan Partridge 2 - Apple Turnover.exe
+D:\C#\codewars\Alan Partridge 2 - Apple Turnover\Alan Partridge 2 - Apple Turnover\obj\Debug\Alan Partridge 2 - Apple Turnover.pdb

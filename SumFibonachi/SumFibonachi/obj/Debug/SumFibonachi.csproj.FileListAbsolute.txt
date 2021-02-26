@@ -1,0 +1,7 @@
+D:\C#\codewars\SumFibonachi\SumFibonachi\bin\Debug\SumFibonachi.exe.config
+D:\C#\codewars\SumFibonachi\SumFibonachi\bin\Debug\SumFibonachi.exe
+D:\C#\codewars\SumFibonachi\SumFibonachi\bin\Debug\SumFibonachi.pdb
+D:\C#\codewars\SumFibonachi\SumFibonachi\obj\Debug\SumFibonachi.csprojAssemblyReference.cache
+D:\C#\codewars\SumFibonachi\SumFibonachi\obj\Debug\SumFibonachi.csproj.CoreCompileInputs.cache
+D:\C#\codewars\SumFibonachi\SumFibonachi\obj\Debug\SumFibonachi.exe
+D:\C#\codewars\SumFibonachi\SumFibonachi\obj\Debug\SumFibonachi.pdb

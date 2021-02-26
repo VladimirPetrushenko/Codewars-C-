@@ -1,0 +1,6 @@
+D:\C#\codewars\Simple Fun 15 Addition without Carrying\Simple Fun 15 Addition without Carrying\obj\Debug\Simple Fun 15 Addition without Carrying.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Simple Fun 15 Addition without Carrying\Simple Fun 15 Addition without Carrying\bin\Debug\Simple Fun 15 Addition without Carrying.exe.config
+D:\C#\codewars\Simple Fun 15 Addition without Carrying\Simple Fun 15 Addition without Carrying\bin\Debug\Simple Fun 15 Addition without Carrying.exe
+D:\C#\codewars\Simple Fun 15 Addition without Carrying\Simple Fun 15 Addition without Carrying\bin\Debug\Simple Fun 15 Addition without Carrying.pdb
+D:\C#\codewars\Simple Fun 15 Addition without Carrying\Simple Fun 15 Addition without Carrying\obj\Debug\Simple Fun 15 Addition without Carrying.exe
+D:\C#\codewars\Simple Fun 15 Addition without Carrying\Simple Fun 15 Addition without Carrying\obj\Debug\Simple Fun 15 Addition without Carrying.pdb

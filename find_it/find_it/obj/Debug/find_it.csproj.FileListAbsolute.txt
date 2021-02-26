@@ -1,0 +1,7 @@
+D:\C#\codewars\find_it\find_it\bin\Debug\find_it.exe.config
+D:\C#\codewars\find_it\find_it\bin\Debug\find_it.exe
+D:\C#\codewars\find_it\find_it\bin\Debug\find_it.pdb
+D:\C#\codewars\find_it\find_it\obj\Debug\find_it.csproj.CoreCompileInputs.cache
+D:\C#\codewars\find_it\find_it\obj\Debug\find_it.exe
+D:\C#\codewars\find_it\find_it\obj\Debug\find_it.pdb
+D:\C#\codewars\find_it\find_it\obj\Debug\find_it.csprojAssemblyReference.cache

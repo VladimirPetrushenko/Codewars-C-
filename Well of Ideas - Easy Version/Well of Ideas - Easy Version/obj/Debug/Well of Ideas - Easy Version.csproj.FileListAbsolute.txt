@@ -1,0 +1,6 @@
+D:\C#\codewars\Well of Ideas - Easy Version\Well of Ideas - Easy Version\bin\Debug\Well of Ideas - Easy Version.exe.config
+D:\C#\codewars\Well of Ideas - Easy Version\Well of Ideas - Easy Version\bin\Debug\Well of Ideas - Easy Version.exe
+D:\C#\codewars\Well of Ideas - Easy Version\Well of Ideas - Easy Version\bin\Debug\Well of Ideas - Easy Version.pdb
+D:\C#\codewars\Well of Ideas - Easy Version\Well of Ideas - Easy Version\obj\Debug\Well of Ideas - Easy Version.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Well of Ideas - Easy Version\Well of Ideas - Easy Version\obj\Debug\Well of Ideas - Easy Version.exe
+D:\C#\codewars\Well of Ideas - Easy Version\Well of Ideas - Easy Version\obj\Debug\Well of Ideas - Easy Version.pdb

@@ -1,0 +1,6 @@
+D:\C#\codewars\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe.config
+D:\C#\codewars\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe
+D:\C#\codewars\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.pdb
+D:\C#\codewars\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.exe
+D:\C#\codewars\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.pdb

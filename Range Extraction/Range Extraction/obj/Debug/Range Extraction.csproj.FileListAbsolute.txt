@@ -1,0 +1,7 @@
+D:\C#\codewars\Range Extraction\Range Extraction\bin\Debug\Range Extraction.exe.config
+D:\C#\codewars\Range Extraction\Range Extraction\bin\Debug\Range Extraction.exe
+D:\C#\codewars\Range Extraction\Range Extraction\bin\Debug\Range Extraction.pdb
+D:\C#\codewars\Range Extraction\Range Extraction\obj\Debug\Range Extraction.csprojAssemblyReference.cache
+D:\C#\codewars\Range Extraction\Range Extraction\obj\Debug\Range Extraction.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Range Extraction\Range Extraction\obj\Debug\Range Extraction.exe
+D:\C#\codewars\Range Extraction\Range Extraction\obj\Debug\Range Extraction.pdb

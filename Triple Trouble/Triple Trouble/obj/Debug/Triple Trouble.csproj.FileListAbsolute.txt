@@ -1,0 +1,7 @@
+D:\C#\codewars\Triple Trouble\Triple Trouble\bin\Debug\Triple Trouble.exe.config
+D:\C#\codewars\Triple Trouble\Triple Trouble\bin\Debug\Triple Trouble.exe
+D:\C#\codewars\Triple Trouble\Triple Trouble\bin\Debug\Triple Trouble.pdb
+D:\C#\codewars\Triple Trouble\Triple Trouble\obj\Debug\Triple Trouble.csprojAssemblyReference.cache
+D:\C#\codewars\Triple Trouble\Triple Trouble\obj\Debug\Triple Trouble.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Triple Trouble\Triple Trouble\obj\Debug\Triple Trouble.exe
+D:\C#\codewars\Triple Trouble\Triple Trouble\obj\Debug\Triple Trouble.pdb

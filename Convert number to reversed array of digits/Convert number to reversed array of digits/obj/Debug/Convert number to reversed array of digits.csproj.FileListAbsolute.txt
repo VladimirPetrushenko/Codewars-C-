@@ -1,0 +1,7 @@
+D:\C#\codewars\Convert number to reversed array of digits\Convert number to reversed array of digits\bin\Debug\Convert number to reversed array of digits.exe.config
+D:\C#\codewars\Convert number to reversed array of digits\Convert number to reversed array of digits\bin\Debug\Convert number to reversed array of digits.exe
+D:\C#\codewars\Convert number to reversed array of digits\Convert number to reversed array of digits\bin\Debug\Convert number to reversed array of digits.pdb
+D:\C#\codewars\Convert number to reversed array of digits\Convert number to reversed array of digits\obj\Debug\Convert number to reversed array of digits.csprojAssemblyReference.cache
+D:\C#\codewars\Convert number to reversed array of digits\Convert number to reversed array of digits\obj\Debug\Convert number to reversed array of digits.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Convert number to reversed array of digits\Convert number to reversed array of digits\obj\Debug\Convert number to reversed array of digits.exe
+D:\C#\codewars\Convert number to reversed array of digits\Convert number to reversed array of digits\obj\Debug\Convert number to reversed array of digits.pdb

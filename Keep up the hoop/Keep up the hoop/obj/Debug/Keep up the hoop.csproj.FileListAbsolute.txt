@@ -1,0 +1,6 @@
+D:\C#\codewars\Keep up the hoop\Keep up the hoop\bin\Debug\Keep up the hoop.exe.config
+D:\C#\codewars\Keep up the hoop\Keep up the hoop\bin\Debug\Keep up the hoop.exe
+D:\C#\codewars\Keep up the hoop\Keep up the hoop\bin\Debug\Keep up the hoop.pdb
+D:\C#\codewars\Keep up the hoop\Keep up the hoop\obj\Debug\Keep up the hoop.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Keep up the hoop\Keep up the hoop\obj\Debug\Keep up the hoop.exe
+D:\C#\codewars\Keep up the hoop\Keep up the hoop\obj\Debug\Keep up the hoop.pdb

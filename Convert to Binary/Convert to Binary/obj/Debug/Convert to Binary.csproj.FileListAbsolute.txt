@@ -1,0 +1,7 @@
+D:\C#\codewars\Convert to Binary\Convert to Binary\bin\Debug\Convert to Binary.exe.config
+D:\C#\codewars\Convert to Binary\Convert to Binary\bin\Debug\Convert to Binary.exe
+D:\C#\codewars\Convert to Binary\Convert to Binary\bin\Debug\Convert to Binary.pdb
+D:\C#\codewars\Convert to Binary\Convert to Binary\obj\Debug\Convert to Binary.csprojAssemblyReference.cache
+D:\C#\codewars\Convert to Binary\Convert to Binary\obj\Debug\Convert to Binary.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Convert to Binary\Convert to Binary\obj\Debug\Convert to Binary.exe
+D:\C#\codewars\Convert to Binary\Convert to Binary\obj\Debug\Convert to Binary.pdb

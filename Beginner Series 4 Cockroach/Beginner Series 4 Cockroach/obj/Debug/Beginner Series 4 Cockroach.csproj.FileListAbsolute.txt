@@ -1,0 +1,7 @@
+D:\C#\codewars\Beginner Series 4 Cockroach\Beginner Series 4 Cockroach\bin\Debug\Beginner Series 4 Cockroach.exe.config
+D:\C#\codewars\Beginner Series 4 Cockroach\Beginner Series 4 Cockroach\bin\Debug\Beginner Series 4 Cockroach.exe
+D:\C#\codewars\Beginner Series 4 Cockroach\Beginner Series 4 Cockroach\bin\Debug\Beginner Series 4 Cockroach.pdb
+D:\C#\codewars\Beginner Series 4 Cockroach\Beginner Series 4 Cockroach\obj\Debug\Beginner Series 4 Cockroach.csprojAssemblyReference.cache
+D:\C#\codewars\Beginner Series 4 Cockroach\Beginner Series 4 Cockroach\obj\Debug\Beginner Series 4 Cockroach.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Beginner Series 4 Cockroach\Beginner Series 4 Cockroach\obj\Debug\Beginner Series 4 Cockroach.exe
+D:\C#\codewars\Beginner Series 4 Cockroach\Beginner Series 4 Cockroach\obj\Debug\Beginner Series 4 Cockroach.pdb

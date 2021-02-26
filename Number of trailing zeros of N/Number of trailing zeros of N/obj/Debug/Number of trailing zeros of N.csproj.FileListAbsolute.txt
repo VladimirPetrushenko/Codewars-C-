@@ -1,0 +1,7 @@
+D:\C#\codewars\Number of trailing zeros of N\Number of trailing zeros of N\bin\Debug\Number of trailing zeros of N.exe.config
+D:\C#\codewars\Number of trailing zeros of N\Number of trailing zeros of N\bin\Debug\Number of trailing zeros of N.exe
+D:\C#\codewars\Number of trailing zeros of N\Number of trailing zeros of N\bin\Debug\Number of trailing zeros of N.pdb
+D:\C#\codewars\Number of trailing zeros of N\Number of trailing zeros of N\obj\Debug\Number of trailing zeros of N.csprojAssemblyReference.cache
+D:\C#\codewars\Number of trailing zeros of N\Number of trailing zeros of N\obj\Debug\Number of trailing zeros of N.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Number of trailing zeros of N\Number of trailing zeros of N\obj\Debug\Number of trailing zeros of N.exe
+D:\C#\codewars\Number of trailing zeros of N\Number of trailing zeros of N\obj\Debug\Number of trailing zeros of N.pdb

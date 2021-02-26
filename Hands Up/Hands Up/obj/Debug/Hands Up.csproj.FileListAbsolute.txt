@@ -1,0 +1,7 @@
+D:\C#\codewars\Hands Up\Hands Up\bin\Debug\Hands Up.exe.config
+D:\C#\codewars\Hands Up\Hands Up\bin\Debug\Hands Up.exe
+D:\C#\codewars\Hands Up\Hands Up\bin\Debug\Hands Up.pdb
+D:\C#\codewars\Hands Up\Hands Up\obj\Debug\Hands Up.csprojAssemblyReference.cache
+D:\C#\codewars\Hands Up\Hands Up\obj\Debug\Hands Up.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Hands Up\Hands Up\obj\Debug\Hands Up.exe
+D:\C#\codewars\Hands Up\Hands Up\obj\Debug\Hands Up.pdb

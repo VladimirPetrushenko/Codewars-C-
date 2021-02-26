@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get the mean of an array", "Get the mean of an array\Get the mean of an array.csproj", "{56CAE022-43A9-4398-AAB6-85166B432A52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56CAE022-43A9-4398-AAB6-85166B432A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56CAE022-43A9-4398-AAB6-85166B432A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56CAE022-43A9-4398-AAB6-85166B432A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56CAE022-43A9-4398-AAB6-85166B432A52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22E7CC1D-CBC7-49AC-B514-C30E190034DD}
+	EndGlobalSection
+EndGlobal

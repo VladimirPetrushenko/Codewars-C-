@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fake Binary", "Fake Binary\Fake Binary.csproj", "{6B44A016-AA90-4418-AE42-1342EA2250EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B44A016-AA90-4418-AE42-1342EA2250EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B44A016-AA90-4418-AE42-1342EA2250EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B44A016-AA90-4418-AE42-1342EA2250EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B44A016-AA90-4418-AE42-1342EA2250EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50326242-9392-482E-BD0B-506ACFD0B064}
+	EndGlobalSection
+EndGlobal

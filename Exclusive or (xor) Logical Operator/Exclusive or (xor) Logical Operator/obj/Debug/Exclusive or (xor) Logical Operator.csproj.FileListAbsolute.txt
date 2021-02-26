@@ -1,0 +1,7 @@
+D:\C#\codewars\Exclusive or (xor) Logical Operator\Exclusive or (xor) Logical Operator\bin\Debug\Exclusive or (xor) Logical Operator.exe.config
+D:\C#\codewars\Exclusive or (xor) Logical Operator\Exclusive or (xor) Logical Operator\bin\Debug\Exclusive or (xor) Logical Operator.exe
+D:\C#\codewars\Exclusive or (xor) Logical Operator\Exclusive or (xor) Logical Operator\bin\Debug\Exclusive or (xor) Logical Operator.pdb
+D:\C#\codewars\Exclusive or (xor) Logical Operator\Exclusive or (xor) Logical Operator\obj\Debug\Exclusive or (xor) Logical Operator.csprojAssemblyReference.cache
+D:\C#\codewars\Exclusive or (xor) Logical Operator\Exclusive or (xor) Logical Operator\obj\Debug\Exclusive or (xor) Logical Operator.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Exclusive or (xor) Logical Operator\Exclusive or (xor) Logical Operator\obj\Debug\Exclusive or (xor) Logical Operator.exe
+D:\C#\codewars\Exclusive or (xor) Logical Operator\Exclusive or (xor) Logical Operator\obj\Debug\Exclusive or (xor) Logical Operator.pdb

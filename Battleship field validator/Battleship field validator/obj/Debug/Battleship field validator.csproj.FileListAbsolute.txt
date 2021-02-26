@@ -1,0 +1,7 @@
+D:\C#\codewars\Battleship field validator\Battleship field validator\bin\Debug\Battleship field validator.exe.config
+D:\C#\codewars\Battleship field validator\Battleship field validator\bin\Debug\Battleship field validator.exe
+D:\C#\codewars\Battleship field validator\Battleship field validator\bin\Debug\Battleship field validator.pdb
+D:\C#\codewars\Battleship field validator\Battleship field validator\obj\Debug\Battleship field validator.csprojAssemblyReference.cache
+D:\C#\codewars\Battleship field validator\Battleship field validator\obj\Debug\Battleship field validator.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Battleship field validator\Battleship field validator\obj\Debug\Battleship field validator.exe
+D:\C#\codewars\Battleship field validator\Battleship field validator\obj\Debug\Battleship field validator.pdb

@@ -1,0 +1,7 @@
+D:\C#\codewars\The Millionth Fibonacci Kata\The Millionth Fibonacci Kata\bin\Debug\The Millionth Fibonacci Kata.exe.config
+D:\C#\codewars\The Millionth Fibonacci Kata\The Millionth Fibonacci Kata\bin\Debug\The Millionth Fibonacci Kata.exe
+D:\C#\codewars\The Millionth Fibonacci Kata\The Millionth Fibonacci Kata\bin\Debug\The Millionth Fibonacci Kata.pdb
+D:\C#\codewars\The Millionth Fibonacci Kata\The Millionth Fibonacci Kata\obj\Debug\The Millionth Fibonacci Kata.csprojAssemblyReference.cache
+D:\C#\codewars\The Millionth Fibonacci Kata\The Millionth Fibonacci Kata\obj\Debug\The Millionth Fibonacci Kata.csproj.CoreCompileInputs.cache
+D:\C#\codewars\The Millionth Fibonacci Kata\The Millionth Fibonacci Kata\obj\Debug\The Millionth Fibonacci Kata.exe
+D:\C#\codewars\The Millionth Fibonacci Kata\The Millionth Fibonacci Kata\obj\Debug\The Millionth Fibonacci Kata.pdb

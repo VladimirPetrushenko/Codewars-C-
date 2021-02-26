@@ -1,0 +1,7 @@
+D:\C#\codewars\Find the unique number\Find the unique number\bin\Debug\Find the unique number.exe.config
+D:\C#\codewars\Find the unique number\Find the unique number\bin\Debug\Find the unique number.exe
+D:\C#\codewars\Find the unique number\Find the unique number\bin\Debug\Find the unique number.pdb
+D:\C#\codewars\Find the unique number\Find the unique number\obj\Debug\Find the unique number.csprojAssemblyReference.cache
+D:\C#\codewars\Find the unique number\Find the unique number\obj\Debug\Find the unique number.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Find the unique number\Find the unique number\obj\Debug\Find the unique number.exe
+D:\C#\codewars\Find the unique number\Find the unique number\obj\Debug\Find the unique number.pdb

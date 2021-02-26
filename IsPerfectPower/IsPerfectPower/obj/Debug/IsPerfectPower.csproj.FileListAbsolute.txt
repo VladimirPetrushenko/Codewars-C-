@@ -1,0 +1,7 @@
+D:\C#\codewars\IsPerfectPower\IsPerfectPower\bin\Debug\IsPerfectPower.exe.config
+D:\C#\codewars\IsPerfectPower\IsPerfectPower\bin\Debug\IsPerfectPower.exe
+D:\C#\codewars\IsPerfectPower\IsPerfectPower\bin\Debug\IsPerfectPower.pdb
+D:\C#\codewars\IsPerfectPower\IsPerfectPower\obj\Debug\IsPerfectPower.csprojAssemblyReference.cache
+D:\C#\codewars\IsPerfectPower\IsPerfectPower\obj\Debug\IsPerfectPower.csproj.CoreCompileInputs.cache
+D:\C#\codewars\IsPerfectPower\IsPerfectPower\obj\Debug\IsPerfectPower.exe
+D:\C#\codewars\IsPerfectPower\IsPerfectPower\obj\Debug\IsPerfectPower.pdb

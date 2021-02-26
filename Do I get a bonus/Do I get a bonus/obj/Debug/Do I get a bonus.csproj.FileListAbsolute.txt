@@ -1,0 +1,6 @@
+D:\C#\codewars\Do I get a bonus\Do I get a bonus\bin\Debug\Do I get a bonus.exe.config
+D:\C#\codewars\Do I get a bonus\Do I get a bonus\bin\Debug\Do I get a bonus.exe
+D:\C#\codewars\Do I get a bonus\Do I get a bonus\bin\Debug\Do I get a bonus.pdb
+D:\C#\codewars\Do I get a bonus\Do I get a bonus\obj\Debug\Do I get a bonus.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Do I get a bonus\Do I get a bonus\obj\Debug\Do I get a bonus.exe
+D:\C#\codewars\Do I get a bonus\Do I get a bonus\obj\Debug\Do I get a bonus.pdb

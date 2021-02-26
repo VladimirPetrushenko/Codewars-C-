@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert number to reversed array of digits", "Convert number to reversed array of digits\Convert number to reversed array of digits.csproj", "{C5292E4E-C160-4729-B93B-86EC21382AB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5292E4E-C160-4729-B93B-86EC21382AB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5292E4E-C160-4729-B93B-86EC21382AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5292E4E-C160-4729-B93B-86EC21382AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5292E4E-C160-4729-B93B-86EC21382AB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC82EC26-C36A-496C-8B3C-0BE9D6AB93F1}
+	EndGlobalSection
+EndGlobal

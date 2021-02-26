@@ -1,0 +1,6 @@
+D:\C#\codewars\Remove First and Last Character\Remove First and Last Character\obj\Debug\Remove First and Last Character.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Remove First and Last Character\Remove First and Last Character\bin\Debug\Remove First and Last Character.exe.config
+D:\C#\codewars\Remove First and Last Character\Remove First and Last Character\bin\Debug\Remove First and Last Character.exe
+D:\C#\codewars\Remove First and Last Character\Remove First and Last Character\bin\Debug\Remove First and Last Character.pdb
+D:\C#\codewars\Remove First and Last Character\Remove First and Last Character\obj\Debug\Remove First and Last Character.exe
+D:\C#\codewars\Remove First and Last Character\Remove First and Last Character\obj\Debug\Remove First and Last Character.pdb

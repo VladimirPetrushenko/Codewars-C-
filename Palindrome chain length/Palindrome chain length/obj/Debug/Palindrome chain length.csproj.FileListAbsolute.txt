@@ -1,0 +1,7 @@
+D:\C#\codewars\Palindrome chain length\Palindrome chain length\bin\Debug\Palindrome chain length.exe.config
+D:\C#\codewars\Palindrome chain length\Palindrome chain length\bin\Debug\Palindrome chain length.exe
+D:\C#\codewars\Palindrome chain length\Palindrome chain length\bin\Debug\Palindrome chain length.pdb
+D:\C#\codewars\Palindrome chain length\Palindrome chain length\obj\Debug\Palindrome chain length.csprojAssemblyReference.cache
+D:\C#\codewars\Palindrome chain length\Palindrome chain length\obj\Debug\Palindrome chain length.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Palindrome chain length\Palindrome chain length\obj\Debug\Palindrome chain length.exe
+D:\C#\codewars\Palindrome chain length\Palindrome chain length\obj\Debug\Palindrome chain length.pdb

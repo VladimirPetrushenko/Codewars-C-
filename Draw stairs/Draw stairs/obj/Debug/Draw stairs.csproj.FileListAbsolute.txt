@@ -1,0 +1,6 @@
+D:\C#\codewars\Draw stairs\Draw stairs\bin\Debug\Draw stairs.exe.config
+D:\C#\codewars\Draw stairs\Draw stairs\bin\Debug\Draw stairs.exe
+D:\C#\codewars\Draw stairs\Draw stairs\bin\Debug\Draw stairs.pdb
+D:\C#\codewars\Draw stairs\Draw stairs\obj\Debug\Draw stairs.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Draw stairs\Draw stairs\obj\Debug\Draw stairs.exe
+D:\C#\codewars\Draw stairs\Draw stairs\obj\Debug\Draw stairs.pdb

@@ -1,0 +1,7 @@
+D:\C#\codewars\Find Multiples of a Number\Find Multiples of a Number\bin\Debug\Find Multiples of a Number.exe.config
+D:\C#\codewars\Find Multiples of a Number\Find Multiples of a Number\bin\Debug\Find Multiples of a Number.exe
+D:\C#\codewars\Find Multiples of a Number\Find Multiples of a Number\bin\Debug\Find Multiples of a Number.pdb
+D:\C#\codewars\Find Multiples of a Number\Find Multiples of a Number\obj\Debug\Find Multiples of a Number.csprojAssemblyReference.cache
+D:\C#\codewars\Find Multiples of a Number\Find Multiples of a Number\obj\Debug\Find Multiples of a Number.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Find Multiples of a Number\Find Multiples of a Number\obj\Debug\Find Multiples of a Number.exe
+D:\C#\codewars\Find Multiples of a Number\Find Multiples of a Number\obj\Debug\Find Multiples of a Number.pdb

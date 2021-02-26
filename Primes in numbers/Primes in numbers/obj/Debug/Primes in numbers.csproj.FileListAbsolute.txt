@@ -1,0 +1,7 @@
+D:\C#\codewars\Primes in numbers\Primes in numbers\bin\Debug\Primes in numbers.exe.config
+D:\C#\codewars\Primes in numbers\Primes in numbers\bin\Debug\Primes in numbers.exe
+D:\C#\codewars\Primes in numbers\Primes in numbers\bin\Debug\Primes in numbers.pdb
+D:\C#\codewars\Primes in numbers\Primes in numbers\obj\Debug\Primes in numbers.csprojAssemblyReference.cache
+D:\C#\codewars\Primes in numbers\Primes in numbers\obj\Debug\Primes in numbers.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Primes in numbers\Primes in numbers\obj\Debug\Primes in numbers.exe
+D:\C#\codewars\Primes in numbers\Primes in numbers\obj\Debug\Primes in numbers.pdb

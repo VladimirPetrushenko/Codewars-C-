@@ -1,0 +1,7 @@
+D:\C#\codewars\Convert_string_to_camel_case\Convert_string_to_camel_case\bin\Debug\Convert_string_to_camel_case.exe.config
+D:\C#\codewars\Convert_string_to_camel_case\Convert_string_to_camel_case\bin\Debug\Convert_string_to_camel_case.exe
+D:\C#\codewars\Convert_string_to_camel_case\Convert_string_to_camel_case\bin\Debug\Convert_string_to_camel_case.pdb
+D:\C#\codewars\Convert_string_to_camel_case\Convert_string_to_camel_case\obj\Debug\Convert_string_to_camel_case.csprojAssemblyReference.cache
+D:\C#\codewars\Convert_string_to_camel_case\Convert_string_to_camel_case\obj\Debug\Convert_string_to_camel_case.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Convert_string_to_camel_case\Convert_string_to_camel_case\obj\Debug\Convert_string_to_camel_case.exe
+D:\C#\codewars\Convert_string_to_camel_case\Convert_string_to_camel_case\obj\Debug\Convert_string_to_camel_case.pdb

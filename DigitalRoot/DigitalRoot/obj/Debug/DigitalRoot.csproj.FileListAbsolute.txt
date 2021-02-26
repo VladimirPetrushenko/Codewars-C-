@@ -1,0 +1,6 @@
+D:\C#\codewars\DigitalRoot\DigitalRoot\bin\Debug\DigitalRoot.exe.config
+D:\C#\codewars\DigitalRoot\DigitalRoot\bin\Debug\DigitalRoot.exe
+D:\C#\codewars\DigitalRoot\DigitalRoot\bin\Debug\DigitalRoot.pdb
+D:\C#\codewars\DigitalRoot\DigitalRoot\obj\Debug\DigitalRoot.csproj.CoreCompileInputs.cache
+D:\C#\codewars\DigitalRoot\DigitalRoot\obj\Debug\DigitalRoot.exe
+D:\C#\codewars\DigitalRoot\DigitalRoot\obj\Debug\DigitalRoot.pdb

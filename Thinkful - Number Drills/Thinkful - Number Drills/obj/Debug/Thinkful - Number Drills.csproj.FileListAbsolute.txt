@@ -1,0 +1,7 @@
+D:\C#\codewars\Thinkful - Number Drills\Thinkful - Number Drills\bin\Debug\Thinkful - Number Drills.exe.config
+D:\C#\codewars\Thinkful - Number Drills\Thinkful - Number Drills\bin\Debug\Thinkful - Number Drills.exe
+D:\C#\codewars\Thinkful - Number Drills\Thinkful - Number Drills\bin\Debug\Thinkful - Number Drills.pdb
+D:\C#\codewars\Thinkful - Number Drills\Thinkful - Number Drills\obj\Debug\Thinkful - Number Drills.csprojAssemblyReference.cache
+D:\C#\codewars\Thinkful - Number Drills\Thinkful - Number Drills\obj\Debug\Thinkful - Number Drills.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Thinkful - Number Drills\Thinkful - Number Drills\obj\Debug\Thinkful - Number Drills.exe
+D:\C#\codewars\Thinkful - Number Drills\Thinkful - Number Drills\obj\Debug\Thinkful - Number Drills.pdb

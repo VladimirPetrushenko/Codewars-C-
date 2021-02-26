@@ -1,0 +1,6 @@
+D:\C#\codewars\Abbreviate a Two Word Name\Abbreviate a Two Word Name\bin\Debug\Abbreviate a Two Word Name.exe.config
+D:\C#\codewars\Abbreviate a Two Word Name\Abbreviate a Two Word Name\bin\Debug\Abbreviate a Two Word Name.exe
+D:\C#\codewars\Abbreviate a Two Word Name\Abbreviate a Two Word Name\bin\Debug\Abbreviate a Two Word Name.pdb
+D:\C#\codewars\Abbreviate a Two Word Name\Abbreviate a Two Word Name\obj\Debug\Abbreviate a Two Word Name.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Abbreviate a Two Word Name\Abbreviate a Two Word Name\obj\Debug\Abbreviate a Two Word Name.exe
+D:\C#\codewars\Abbreviate a Two Word Name\Abbreviate a Two Word Name\obj\Debug\Abbreviate a Two Word Name.pdb

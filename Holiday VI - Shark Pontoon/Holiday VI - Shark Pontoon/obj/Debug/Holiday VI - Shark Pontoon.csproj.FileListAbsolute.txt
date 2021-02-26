@@ -1,0 +1,7 @@
+D:\C#\codewars\Holiday VI - Shark Pontoon\Holiday VI - Shark Pontoon\bin\Debug\Holiday VI - Shark Pontoon.exe.config
+D:\C#\codewars\Holiday VI - Shark Pontoon\Holiday VI - Shark Pontoon\bin\Debug\Holiday VI - Shark Pontoon.exe
+D:\C#\codewars\Holiday VI - Shark Pontoon\Holiday VI - Shark Pontoon\bin\Debug\Holiday VI - Shark Pontoon.pdb
+D:\C#\codewars\Holiday VI - Shark Pontoon\Holiday VI - Shark Pontoon\obj\Debug\Holiday VI - Shark Pontoon.csprojAssemblyReference.cache
+D:\C#\codewars\Holiday VI - Shark Pontoon\Holiday VI - Shark Pontoon\obj\Debug\Holiday VI - Shark Pontoon.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Holiday VI - Shark Pontoon\Holiday VI - Shark Pontoon\obj\Debug\Holiday VI - Shark Pontoon.exe
+D:\C#\codewars\Holiday VI - Shark Pontoon\Holiday VI - Shark Pontoon\obj\Debug\Holiday VI - Shark Pontoon.pdb

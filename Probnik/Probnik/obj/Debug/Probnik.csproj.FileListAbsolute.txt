@@ -1,0 +1,7 @@
+D:\C#\codewars\Probnik\Probnik\bin\Debug\Probnik.exe.config
+D:\C#\codewars\Probnik\Probnik\bin\Debug\Probnik.exe
+D:\C#\codewars\Probnik\Probnik\bin\Debug\Probnik.pdb
+D:\C#\codewars\Probnik\Probnik\obj\Debug\Probnik.csprojAssemblyReference.cache
+D:\C#\codewars\Probnik\Probnik\obj\Debug\Probnik.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Probnik\Probnik\obj\Debug\Probnik.exe
+D:\C#\codewars\Probnik\Probnik\obj\Debug\Probnik.pdb

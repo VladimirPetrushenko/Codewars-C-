@@ -1,0 +1,6 @@
+D:\C#\codewars\Put a letter in a column\Put a letter in a column\bin\Debug\Put a letter in a column.exe.config
+D:\C#\codewars\Put a letter in a column\Put a letter in a column\bin\Debug\Put a letter in a column.exe
+D:\C#\codewars\Put a letter in a column\Put a letter in a column\bin\Debug\Put a letter in a column.pdb
+D:\C#\codewars\Put a letter in a column\Put a letter in a column\obj\Debug\Put a letter in a column.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Put a letter in a column\Put a letter in a column\obj\Debug\Put a letter in a column.exe
+D:\C#\codewars\Put a letter in a column\Put a letter in a column\obj\Debug\Put a letter in a column.pdb

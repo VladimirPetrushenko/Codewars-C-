@@ -1,0 +1,6 @@
+D:\C#\codewars\nextPerfectSquare\nextPerfectSquare\bin\Debug\nextPerfectSquare.exe.config
+D:\C#\codewars\nextPerfectSquare\nextPerfectSquare\bin\Debug\nextPerfectSquare.exe
+D:\C#\codewars\nextPerfectSquare\nextPerfectSquare\bin\Debug\nextPerfectSquare.pdb
+D:\C#\codewars\nextPerfectSquare\nextPerfectSquare\obj\Debug\nextPerfectSquare.csproj.CoreCompileInputs.cache
+D:\C#\codewars\nextPerfectSquare\nextPerfectSquare\obj\Debug\nextPerfectSquare.exe
+D:\C#\codewars\nextPerfectSquare\nextPerfectSquare\obj\Debug\nextPerfectSquare.pdb

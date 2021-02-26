@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get Nth Even Number", "Get Nth Even Number\Get Nth Even Number.csproj", "{39F70C7B-91D5-49A2-8473-430C49FC81D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39F70C7B-91D5-49A2-8473-430C49FC81D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F70C7B-91D5-49A2-8473-430C49FC81D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F70C7B-91D5-49A2-8473-430C49FC81D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F70C7B-91D5-49A2-8473-430C49FC81D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B13A7312-C391-4AE7-8FF5-DC8967682FEE}
+	EndGlobalSection
+EndGlobal

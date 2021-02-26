@@ -1,0 +1,6 @@
+D:\C#\codewars\No zeros for heros\No zeros for heros\bin\Debug\No zeros for heros.exe.config
+D:\C#\codewars\No zeros for heros\No zeros for heros\bin\Debug\No zeros for heros.exe
+D:\C#\codewars\No zeros for heros\No zeros for heros\bin\Debug\No zeros for heros.pdb
+D:\C#\codewars\No zeros for heros\No zeros for heros\obj\Debug\No zeros for heros.csproj.CoreCompileInputs.cache
+D:\C#\codewars\No zeros for heros\No zeros for heros\obj\Debug\No zeros for heros.exe
+D:\C#\codewars\No zeros for heros\No zeros for heros\obj\Debug\No zeros for heros.pdb

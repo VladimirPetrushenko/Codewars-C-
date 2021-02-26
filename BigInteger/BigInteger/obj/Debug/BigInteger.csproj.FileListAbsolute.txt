@@ -1,0 +1,7 @@
+D:\C#\codewars\BigInteger\BigInteger\bin\Debug\BigInteger.exe.config
+D:\C#\codewars\BigInteger\BigInteger\bin\Debug\BigInteger.exe
+D:\C#\codewars\BigInteger\BigInteger\bin\Debug\BigInteger.pdb
+D:\C#\codewars\BigInteger\BigInteger\obj\Debug\BigInteger.csprojAssemblyReference.cache
+D:\C#\codewars\BigInteger\BigInteger\obj\Debug\BigInteger.csproj.CoreCompileInputs.cache
+D:\C#\codewars\BigInteger\BigInteger\obj\Debug\BigInteger.exe
+D:\C#\codewars\BigInteger\BigInteger\obj\Debug\BigInteger.pdb

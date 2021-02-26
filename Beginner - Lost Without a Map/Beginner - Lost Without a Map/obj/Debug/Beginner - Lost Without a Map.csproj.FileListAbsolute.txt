@@ -1,0 +1,6 @@
+D:\C#\codewars\Beginner - Lost Without a Map\Beginner - Lost Without a Map\obj\Debug\Beginner - Lost Without a Map.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Beginner - Lost Without a Map\Beginner - Lost Without a Map\bin\Debug\Beginner - Lost Without a Map.exe.config
+D:\C#\codewars\Beginner - Lost Without a Map\Beginner - Lost Without a Map\bin\Debug\Beginner - Lost Without a Map.exe
+D:\C#\codewars\Beginner - Lost Without a Map\Beginner - Lost Without a Map\bin\Debug\Beginner - Lost Without a Map.pdb
+D:\C#\codewars\Beginner - Lost Without a Map\Beginner - Lost Without a Map\obj\Debug\Beginner - Lost Without a Map.exe
+D:\C#\codewars\Beginner - Lost Without a Map\Beginner - Lost Without a Map\obj\Debug\Beginner - Lost Without a Map.pdb

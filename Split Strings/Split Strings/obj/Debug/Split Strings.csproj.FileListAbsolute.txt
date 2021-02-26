@@ -1,0 +1,7 @@
+D:\C#\codewars\Split Strings\Split Strings\bin\Debug\Split Strings.exe.config
+D:\C#\codewars\Split Strings\Split Strings\bin\Debug\Split Strings.exe
+D:\C#\codewars\Split Strings\Split Strings\bin\Debug\Split Strings.pdb
+D:\C#\codewars\Split Strings\Split Strings\obj\Debug\Split Strings.csprojAssemblyReference.cache
+D:\C#\codewars\Split Strings\Split Strings\obj\Debug\Split Strings.csproj.CoreCompileInputs.cache
+D:\C#\codewars\Split Strings\Split Strings\obj\Debug\Split Strings.exe
+D:\C#\codewars\Split Strings\Split Strings\obj\Debug\Split Strings.pdb
